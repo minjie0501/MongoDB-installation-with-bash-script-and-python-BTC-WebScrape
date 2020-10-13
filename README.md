@@ -2,9 +2,9 @@
 
 Prerequisits:
 
--Python 3.0/3.+
--ChromeDriver
--Python Libraries: selenium, bs4, pandas, numpy, pymongo
+* Python 3.0/3.+
+*ChromeDriver
+*Python Libraries: selenium, bs4, pandas, numpy, pymongo
 
 
 How to:
